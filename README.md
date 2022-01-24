@@ -17,3 +17,11 @@ Copyright (c) 2022, Ashlyn W
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.6.
+
+Features should be developed on branches. To create and switch to a branch, use the command
+
+`git checkout -b new_branch_name`
+
+To switch to an existing branch, use
+
+`git checkout new_branch_name`
